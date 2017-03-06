@@ -1,3 +1,0 @@
-# cloudcrm - UDC
-
-Pratica Profissional 
